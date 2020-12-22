@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/trading/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/trading/static/js/main.40714b61.chunk.js",
+    "main.js.map": "/trading/static/js/main.40714b61.chunk.js.map",
+    "runtime-main.js": "/trading/static/js/runtime-main.71361275.js",
+    "runtime-main.js.map": "/trading/static/js/runtime-main.71361275.js.map",
+    "static/js/2.63376ff3.chunk.js": "/trading/static/js/2.63376ff3.chunk.js",
+    "static/js/2.63376ff3.chunk.js.map": "/trading/static/js/2.63376ff3.chunk.js.map",
+    "static/js/3.73d92bee.chunk.js": "/trading/static/js/3.73d92bee.chunk.js",
+    "static/js/3.73d92bee.chunk.js.map": "/trading/static/js/3.73d92bee.chunk.js.map",
+    "index.html": "/trading/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/trading/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.63376ff3.chunk.js.LICENSE.txt": "/trading/static/js/2.63376ff3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.71361275.js",
+    "static/js/2.63376ff3.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.40714b61.chunk.js"
+  ]
+}
